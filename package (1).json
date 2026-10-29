@@ -1,0 +1,15 @@
+{
+  "name": "donna-aurora-lp",
+  "version": "1.0.0",
+  "description": "Landing page Donna Aurora Ateliê com formulário de qualificação e redirecionamento para o WhatsApp",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo \"Site estático, sem etapa de build\""
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "UNLICENSED"
+}
